@@ -1,5 +1,7 @@
 # 360-Business-Intelligence 
 A multi-domain Power BI dashboard offering 360° insights across Finance, Sales, Marketing, Supply Chain, and Executive views
+link: https://app.powerbi.com/view?r=eyJrIjoiZmYxM2I0Y2EtN2Y5OC00MzI5LWJjYzAtZGUzMmE1MmU3MjQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 
 1. **Home Page
 View Objective:**
